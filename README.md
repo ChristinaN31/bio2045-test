@@ -1,1 +1,3 @@
-# bio2045-test
+# Test (BIO2045)
+
+repo de test pour le cours
